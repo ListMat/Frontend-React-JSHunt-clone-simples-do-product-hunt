@@ -1,6 +1,6 @@
 
-1 <h1 align="center">
-# JSHunt-React
+ <h1 align="center">
+  #JSHunt-React
 
 
 <p align="center">
